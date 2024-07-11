@@ -16,6 +16,12 @@ file_extensions = {
 'doc': 'Documents'.
 'docx': 'Documents'.
 'txt': 'Documents'.
+'html':'web'.
+'css':'web'.
+'js':'web'.
+'py':'AI'.
+'c':'c'.
+'c++':'c++'.
 'csv': 'Data'.
 'xlsx': 'Data'.
 'zip': 'Archives',
@@ -23,5 +29,5 @@ file_extensions = {
 'exe': 'Executables',
 'mp3': 'Music',
 'wav': 'Music'.
-'mp4': 'Videos'
+'mp4': 'Videos'.
 }
