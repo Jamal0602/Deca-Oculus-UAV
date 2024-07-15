@@ -1,10 +1,9 @@
-h1{
- text-width:4px;
-  color:red;
-  text-style:bold;
-}
-h3{
-  text-width:3px;
-  color:blue;
-  text-style:bold;
+.nav{
+  text-align:center;
+  display:flex;
+  background-color:rgb(0, 255, 242);
+  border:3px;
+  border-color:white;
+  border-style:solid;
+  border-radius:35%;
 }
